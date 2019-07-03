@@ -1,4 +1,4 @@
-@import'media';
+
 * {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
@@ -558,7 +558,6 @@ footer {
     justify-content: center;
     align-items: center;
     font-size: 12pt;
-    // .end {
-    //     align: center;
-    // }
 }
+
+@import'media';
